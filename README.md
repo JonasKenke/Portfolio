@@ -1,1 +1,1 @@
-# Die Webseite befindet sich im Aufbau
+# Das Portfolio von Jonas Kenke geschrieben in HTML, CSS, und Javascript
